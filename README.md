@@ -4,7 +4,7 @@ This repository contains Matlab codes accompanying the paper [``Optimal control 
 
 If you find this approach useful, you can cite the paper as
 
-    @techreport{switchingcontrol,
+    @techreport{positivecontrol,
         author = {Christian Clason and Anton Schiela},
         title = {Optimal control of elliptic equations with positive measures},
         number = {SFB-Report 2015--003},
