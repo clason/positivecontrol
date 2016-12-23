@@ -7,8 +7,10 @@ If you find this approach useful, you can cite the paper as
     @article{positivecontrol,
         author = {Christian Clason and Anton Schiela},
         title = {Optimal control of elliptic equations with positive measures},
-        journal = {ESAIM: Control, Optimisation and Calculus of Variations},
-        volume = {Online First},
-        year = {2016},
-        doi = {10.1051/cocv/2015046}
+        journal = {ESAIM: Control, Optimisation and Calculus of Variations},
+        volume = {23},
+        number = {1},
+        pages = {217--240},
+        year = {2017},
+        doi = {10.1051/cocv/2015046}
     }
