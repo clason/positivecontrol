@@ -12,5 +12,5 @@ If you find this approach useful, you can cite the paper as
         number = {1},
         pages = {217--240},
         year = {2017},
-	doi = {10.1051/cocv/2015046}
+        doi = {10.1051/cocv/2015046}
     }
